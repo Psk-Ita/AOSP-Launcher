@@ -1,8 +1,8 @@
-# Launcher3
+# AOSP Launcher
 
 **Summary**: This repo contains: AOSP Launcher:
 
-- Launcher3
+- Launcher
 - ThemePicker
 - WallpaperCropper
 
