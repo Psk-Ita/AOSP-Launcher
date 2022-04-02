@@ -1,0 +1,7 @@
+id=Launcher3
+name=Launcher3
+version=v12
+versionCode=29
+author=Psk.It
+description=AOSP Launcher + Recents
+minApi=30
